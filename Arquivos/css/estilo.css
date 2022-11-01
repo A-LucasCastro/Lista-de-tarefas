@@ -54,3 +54,36 @@ input:focus {
 .tarefas {
     margin-left: 50px;
 }
+
+i {
+    margin-left: 350px;
+    background: #43b886;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+li {
+    padding-top: 15px;
+}
+
+/*
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+  
+  .task-item i {
+    background-color: #41b883;
+    color: #fff;
+    padding: 12px;
+    border-radius: 5px;
+}
+  
+  .task-item i:hover {
+    cursor: pointer;
+}
+*/
