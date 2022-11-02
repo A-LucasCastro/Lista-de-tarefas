@@ -4,7 +4,8 @@
 }
 
 body {
-    background: linear-gradient(to left, #4193ff, #67a6f8);
+    color: white;
+    background: linear-gradient(to left, #494949, #47474788);
 }
 
 h1 {
