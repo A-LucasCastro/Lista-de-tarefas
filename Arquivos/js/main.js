@@ -79,6 +79,7 @@ btnTarefa.addEventListener('click', function() {
     if (!inputTarefa.value) {
         const input = document.querySelector('.input-tarefas')
         input.classList.add('erro')
+        alert('Por favor digite uma tarefa!')
         return
     }
 
